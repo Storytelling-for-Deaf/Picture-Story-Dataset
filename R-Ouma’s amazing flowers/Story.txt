@@ -1,0 +1,27 @@
+01 - Ouma has a window box full of amazing flowers. Robyn wants to pick them all!
+02 - Please don't pick the flowers, Robyn! Ouma loves to see them when she opens her curtains.
+03 - ﻿Butterflies dance around the petals. It's so lovely to have these visitors.
+04 - The bees use the flowers to make delicious honey.
+05 - The flowers bring joy to everyone who walks past Ouma's house.
+06 - The neighbour likes to smell them when he visits for tea.
+07 - Sometimes, sunbirds drink the sweet nectar from the flowers.
+08 - Look, a tiny beetle! It shines in the sun. And there's a fat caterpillar!
+09 - Please don't pick Ouma's flowers, Robyn! They won't stay fresh very long.
+10 - "I won't pick them, Ouma," says Robyn, even though she really wants to. She feels a little bit sad!
+11 - Ouma doesn't want Robyn to be sad. "Okay, Robyn," says Ouma. "You can pick your favourite flower."
+12 - "And I have an idea... Let's plant more flowers together!"
+
+
+
+01 - Ouma සතුව පුදුමාකාර මල් වලින් පිරුණු කවුළු පෙට්ටියක් තිබේ. රොබින්ට ඔවුන් සියල්ලන්ම තෝරා ගැනීමට අවශ්‍යයි!
+02 - කරුණාකර මල් කඩන්න එපා රොබින්! Ouma එයාගේ තිර රෙද්ද අරිනකොට ඒවා බලන්න ආසයි.
+03 - සමනලුන් පෙති වටා නටති. මෙම අමුත්තන් සිටීම ඉතා සුන්දරයි.
+04 - මී මැස්සන් රසවත් මී පැණි සෑදීමට මල් භාවිතා කරයි.
+05 - Ouma ගේ නිවස පසුකර යන සෑම කෙනෙකුටම මල් ප්‍රීතිය ගෙන දෙයි.
+06 - අසල්වැසියා තේ පානය සඳහා පැමිණෙන විට ඒවායේ සුවඳ දැනීමට කැමතියි.
+07 - සමහර විට, හිරු කුරුල්ලන් මල් වලින් මිහිරි පැණි පානය කරයි.
+08 - බලන්න, කුඩා කුරුමිණියෙක්! එය හිරු තුළ බබළයි. ඒ වගේම මහත දළඹුවෙක් ඉන්නවා!
+09 - කරුණාකර Ouma මල් කඩන්න එපා, Robyn! ඔවුන් වැඩි කාලයක් නැවුම්ව නොසිටිනු ඇත.
+10 - "මම ඔවුන්ව තෝරා ගන්නේ නැහැ, Ouma," රොබින් පවසන්නේ ඇයට ඇත්තටම අවශ්‍ය වුවද. ඇයට ටිකක් දුකක් දැනෙනවා!
+11 - රොබින් දුකෙන් ඉන්නවට ඕමා කැමති නෑ. "හරි, රොබින්," ඕමා පවසයි. "ඔබ කැමතිම මල් තෝරා ගත හැකිය."
+12 - "ඒ වගේම මට අදහසක් තියෙනවා... අපි එකට තවත් මල් සිටවමු!"

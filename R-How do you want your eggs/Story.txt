@@ -1,0 +1,24 @@
+01 - ﻿Good morning, Luzuko!
+02 - It's time for breakfast.
+03 - How do you want your eggs?
+04 - Do you want boiled eggs, Luzuko?
+05 - I like boiled eggs, but...
+06 - Do you want scrambled eggs, Luzuko?
+07 - I like scrambled eggs, but...
+08 - Do you want fried eggs, Luzuko?
+09 - I like fried eggs, but...
+10 - Well? How do you want your eggs, Luzuko?
+11 - Today, I just want a bowl of porridge.
+
+
+01 - සුබ උදෑසනක්, ලුසුකෝ!
+02 - උදෑසන ආහාරය සඳහා කාලයයි.
+03 - ඔබට ඔබේ බිත්තර අවශ්‍ය වන්නේ කෙසේද?
+04 - ඔබට තම්බා බිත්තර අවශ්යද, ලුසුකෝ?
+05 - මම තම්බා බිත්තර වලට කැමතියි, නමුත් ...
+06 - ඔබට තැළුණු බිත්තර අවශ්‍යද, ලුසුකෝ?
+07 - මම තැළුණු බිත්තර වලට කැමතියි, නමුත් ...
+08 - ඔබට බැදපු බිත්තර අවශ්‍යද, ලුසුකෝ?
+09 - මම බැදපු බිත්තර වලට කැමතියි, නමුත් ...
+10 - හොඳයි? ඔබට ඔබේ බිත්තර අවශ්‍ය වන්නේ කෙසේද, ලුසුකෝ?
+11 - අද මට අවශ්‍ය වන්නේ කැඳ හැළියක් පමණි.

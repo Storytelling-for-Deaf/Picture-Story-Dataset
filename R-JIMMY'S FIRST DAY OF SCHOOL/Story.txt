@@ -1,0 +1,16 @@
+01 - Jimmy had just turned 5 and was starting school.
+02 - He was frightened. He had never been to school before.
+03 - Jimmy did not know what to expect and he did not want to leave home by himself.
+04 - Jimmy's Mom told him not to be afraid as she walked him to his bus stop.
+05 - She told him he would make new friends and have lots of fun.
+06 - Jimmy was being brave as he got on the bus and sat down.
+07 - He waved to his Mom as the bus drove away.
+
+
+01 - ජිමීට වයස අවුරුදු 5 සම්පූර්ණ වූ අතර පාසල් ආරම්භ කරමින් සිටියේය.
+02 - ඔහු බියට පත් විය. ඔහු මීට පෙර කිසි දිනෙක පාසල් ගොස් නොතිබුණි.
+03 - ජිමී අපේක්ෂා කරන්නේ කුමක්දැයි නොදැන සිටි අතර ඔහුට තනිවම නිවසින් පිටවීමට අවශ්‍ය නොවීය.
+04 - ජිමීගේ අම්මා ඔහුව ඔහුගේ බස් නැවතුමට යද්දී බය වෙන්න එපා කිව්වා.
+05 - ඔහු නව මිතුරන් ඇති කර ගන්නා බවත් බොහෝ විනෝද වන බවත් ඇය ඔහුට පැවසුවාය.
+06 - ජිමී බසයට නැඟ අසුන් ගන්නා විට නිර්භීත විය.
+07 - බසය ඉවතට යන විට ඔහු තම මවට අත දිගු කළේය.
