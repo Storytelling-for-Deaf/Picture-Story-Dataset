@@ -1,0 +1,31 @@
+01 - “Welcome stranger. I’m Buzz the Buzzard.You must be here for some advice. But I have to tell you- the old water hole has dried up, there’s no fast food restaurants, and the closest hotel is 100 miles due South. Now, how can I be of assistance?
+02 - Ah, I understand. You’re just waiting for the Red Rock Tour Bus. Then you saw me, and decided to have a closer look. Well, while you are here, let me give you some advice. It’s free!
+03 - There is nothing more important than your family. That’s it. 
+04 - Oh, I guess I could add that friends could be considered your family. Your family doesn’t just have to be your mom and dad, or step-parents, or brother, or sisters or cousins, aunts and uncles. Well, you get the idea. Your family is all the people who love you and all those you love.
+05 - What’s that, little one? How do I know? Well, it is a long and sad story but I will make it short since I see your bus coming down the road.
+06 - Not long ago, the sky around these parts was full of Buzzards. Yep, my family. One day I decided that living out here just wasn’t enough.
+I wanted to go to the big city.
+07 - Now my family begged me to stay. They told me how much they loved me, how much they needed me, they reminded me of all the good times. But I didn’t listen.
+08 - Off to the big city I went.
+09 - But it wasn’t long before I knew that I had made a mistake. No one loved me in the big city. I had no family and I was all alone. But I was lucky because I could just flap my wings and head back home. Back home to my family. And that’s just what I did.
+10 - I don’t know what happened but when I got home there was no one to greet me. No family, no friends, just empty space.
+11 - Oh, I see your bus is here so go on, get along, but remember - there is nothing more important than your family.” 
+12 - The bus pulled up, came to a stop, the doors opened, and Buzz‘s family stepped out carrying souvenirs from the big city.
+“We all went looking for you and are we glad you’re home,” Betty Buzzard said with a smile.
+
+
+
+01 - “ආගන්තුකයා සාදරයෙන් පිළිගනිමු. මම Buzz the Buzzard. ඔබ උපදෙස් සඳහා මෙහි සිටිය යුතුය. නමුත් මම ඔබට පැවසිය යුතුයි - පැරණි ජල කුහරය සිඳී ගොස් ඇත, ක්ෂණික ආහාර අවන්හල් නොමැත, සහ ආසන්නතම හෝටලය දකුණු දෙසින් සැතපුම් 100 ක් දුරින් පිහිටා ඇත. දැන්, මම උදව් කරන්නේ කෙසේද?
+02 - අහ්, මට තේරෙනවා. ඔබ Red Rock Tour Bus එක එනතුරු බලා සිටිනවා. එවිට ඔබ මාව දැක, සමීපව බැලීමට තීරණය කළා. හොඳයි, ඔබ මෙහි සිටින අතරතුර, මම ඔබට උපදෙස් කිහිපයක් දෙන්න. එය නොමිලේ!
+03 - ඔබේ පවුලට වඩා වැදගත් දෙයක් නැත. ඒක තමයි.
+04 - ඔහ්, මම හිතන්නේ මිතුරන් ඔබේ පවුල ලෙස සැලකිය හැකි බව මට එකතු කළ හැකිය. ඔබේ පවුල ඔබේ මව සහ පියා, හෝ සුළු-දෙමාපියන්, හෝ සහෝදරයා, හෝ සහෝදරියන් හෝ ඥාති සහෝදරියන්, නැන්දලා සහ මාමලා පමණක් විය යුතු නැත. හොඳයි, ඔබට අදහස වැටහේ. ඔබේ පවුල යනු ඔබට ආදරය කරන සහ ඔබ ආදරය කරන සියලු දෙනාමයි.
+05 - ඒ මොකක්ද පොඩි එකා? මම කොහොමද දන්නේ? හොඳයි, එය දිගු හා දුක්බර කතාවකි, නමුත් ඔබේ බස් රථය පාරේ එන බව මට පෙනෙන බැවින් මම එය කෙටි කරමි.
+06 - වැඩි කලකට පෙර මෙම කොටස් අවට අහස Buzzards වලින් පිරී තිබුණි. ඔව්, මගේ පවුල. දවසක් මම තීරණය කළා මෙහෙ ඉන්න එක විතරක් මදි කියලා.
+මට ලොකු නගරයට යන්න ඕන වුණා.
+07 - දැන් මගේ පවුලේ අය මට ඉන්න කියලා බැගෑපත් වුණා. ඔවුන් මට කීවේ ඔවුන් මට කොතරම් ආදරය කරනවාද, ඔවුන්ට මාව කොතරම් අවශ්‍යද යන්නයි, ඔවුන් සියලු හොඳ අවස්ථා මට මතක් කර දුන්නා. නමුත් මම ඇහුම්කන් දුන්නේ නැහැ.
+08 - මම විශාල නගරයට ගියා.
+09 - නමුත් වැඩි කල් යන්නට මත්තෙන් මම වැරැද්දක් කර ඇති බව දැන සිටියෙමි. මහා නගරයේ කිසිවෙක් මට ආදරය කළේ නැත. මට පවුලක් නැති අතර මම තනිවම සිටියෙමි. නමුත් මම වාසනාවන්ත වූයේ මට මගේ පියාපත් ගසා ආපසු ගෙදර යාමට හැකි වූ බැවිනි. මගේ පවුලට ආපසු ගෙදර. ඒ වගේම මම කළ දේ පමණයි.
+10 - මම දන්නේ නැහැ මොකද වුණේ කියලා නමුත් මම ගෙදර එනකොට මට සුබ පතන්න කවුරුත් හිටියේ නැහැ. පවුලක් නැත, මිතුරන් නැත, හිස් ඉඩක් පමණි.
+11 - ඔහ්, මට පේනවා ඔයාගේ බස් එක මෙතන තියෙනවා, යන්න, එකට යන්න, නමුත් මතක තබා ගන්න - ඔබේ පවුලට වඩා වැදගත් දෙයක් නැත.
+12 - බසය නැවැත්වී, නතර විය, දොරවල් විවෘත විය, සහ Buzz ගේ පවුලේ අය විශාල නගරයෙන් සිහිවටන රැගෙන පිටතට ගියහ.
+"අපි හැමෝම ඔයාව හොයාගෙන ගියා, ඔයා ගෙදර ඉන්න එක ගැන අපිට සතුටුයි" බෙටී බසාර්ඩ් සිනහවකින් කීවාය.
