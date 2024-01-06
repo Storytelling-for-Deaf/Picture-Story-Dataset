@@ -1,0 +1,25 @@
+01- There was a beautiful forest.
+02- Many animals lived happily in the forest.
+03- Tortoise and rabbit also lived in the forest.
+04- But one day they had an argument about who was faster.
+05- They decided to go on a race to find who was better. Finally they went on a race infront of all the animals.
+06- As everyone know, the rabbit ran very fast but the tortoise walked slowly.
+07- After sometime, rabbit looked back and the tortoise was far behind.
+08- The rabbit decided to take rest for sometime and run again.
+09- The rabbit slept. The tortoise walked slowly and crossed the rabbit.
+10- The rabbit woke up suddenly and saw that the tortoise was nearing the winning post.
+11- The rabbit started to run.
+12- But, the tortoise won the race.
+
+01- ලස්සන වනාන්තරයක් තිබුණා.
+02- වනයේ බොහෝ සතුන් සතුටින් ජීවත් උනා.
+03- ඉබ්බා  සහ හාවා ද වනාන්තරයේ වාසය කළා.
+04- නමුත් දිනක් වේගවත් කවුරුන්ද යන්න ගැන ඔවුන් අතර බහින්බස්වීමක් ඇති උනා.
+05- වඩා හොඳ කවුදැයි සොයා ගැනීමට ඔවුන් තරඟයක් තියන්න තීරණය කළා.
+06- හාවා ඉතා වේගයෙන් දුවගෙන ගියා. ඉබ්බා  සෙමෙන් ඇවිදගෙන ගියා .
+07- ටික වේලාවකට පසු හාවා ආපසු හැරී බැලුවා . ඉබ්බා බොහෝ පසුපසින් සිටියා.
+08- හාවා ටිකක් විවේක ගෙන නැවත දුවන්න තීරණය කළා.
+09- හාවා නිදාගත්තා. ඉබ්බා හෙමිහිට ඇවිදගෙන හාවා පසු කළා. 
+10- හදිස්සියේම හාවා අවදිවුනා . ඉබ්බා ජයග්‍රාහී කණුව අසලට පැමිණ සිටිනවා  හාවා දැක්කා.
+11- හාවා දුවන්න පටන් ගත්තා.
+12- නමුත්, ඉබ්බා තරඟයෙන් දිනුවා.
