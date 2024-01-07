@@ -1,0 +1,26 @@
+1 - Angelina wanted ice-cream. But there were too many flavours to choose from.
+2 - "What are your favourite foods?" said the ice-cream man. "Tell me and I will work out the best ice- cream for you."
+3 - "Well," said Angelina. "I like sushi."
+4 - "We don't have any ice-cream that tastes like sushi here," said the ice-cream man.
+5 - "I also like buns."
+6 - The ice-cream man looked. "No, nothing like buns- flavoured ice-cream either, I'm afraid," he said.
+7 - "Well how about noodles?" No ...
+    "Tomato sandwiches?" No ...
+    "Grapes?"
+8 - The ice-cream man looked up.
+9 - "Grapes are close to blueberries ... "
+10 - "No, I don't think it's the same" said Angelina.
+11 - "They are both fruits. They are both purple," said the ice-cream man.
+12 - Angelina just shook her head.
+13 - "Well what about sausages?" said Angelina, brightening. "Or spaghetti? Oh! How about eggs on toast?
+14 - But the ice-cream man didn't have any flavours like sausages, spaghetti or eggs on toast.
+15 - "Pappadums?" No ...
+     "Red beans?" No ...
+     "Potatoes?" No ...
+     "Chocolate?" No ...
+16 - "Hang on," said the ice-cream man. "Did you say chocolate?"
+17 - Angelina nodded. "Chocolate."
+18 - "No," said the ice-cream man, looking disappointed. "We sold our last chocolate ice-cream yesterday."
+19 - "How about I pick one for you?" said the ice-cream man, at last. "It will not taste like any of your favourite foods, but it will still taste nice."
+20 - "Okay," said Angelina. She shut her eyes and counted to ten. When she opened them, the great big ice-cream was in front of her. It was a broccoli ice-cream, high as
+a mountain.
