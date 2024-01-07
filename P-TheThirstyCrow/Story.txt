@@ -1,0 +1,23 @@
+01- Once there was a crow, which was very thirsty.
+02- It started searching for water.
+03- For a long time it could not find the water.
+04- Suddenly it saw a pot with water.
+05- But, there was only little water in the pot.
+06- The crow could not reach the water.
+07- The crow saw some pebbles around the pot and suddenly got an idea.
+08- The crow picked the pebbles.
+09- The crow dropped the pebbles into the pot.
+10- The water level rose up slowly. The clever crow drank the water.
+11- The crow flew away happily.
+
+01- වරක් ඉතා පිපාසයෙන් සිටි කපුටෙක් සිටියා.
+02- කපුටා වතුර සෙවීමට පටන් ගත්තා.
+03- කපුටාට දිගු කාලයක් යන තුරු වතුර සොයා ගැනීමට නොහැකි උනා.
+04- එක්වරම කපුටා වතුර සහිත කළයක් දුටුවා.
+05- ඒත්, කළයේ තිබුණේ වතුර ටිකක් විතරයි.
+06- කපුටාට වතුරට ළඟා විය නොහැකි උනා .
+07- මුට්ටිය වටේ ගල් කැට වගයක් දැකපු කපුටාට එකපාරටම අදහසක් ආවා.
+08- කපුටා ගල් කැට අහුලා ගත්තා.
+09- කපුටා ගල් කැට බඳුනට දැමුවා.
+10- වතුර මට්ටම සෙමින් ඉහළ ගියා. දක්ෂ කපුටා වතුර බිව්වා.
+11- කපුටා සතුටින් ඉගිල ගියා.
