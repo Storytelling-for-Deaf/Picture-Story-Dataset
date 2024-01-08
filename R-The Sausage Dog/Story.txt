@@ -1,0 +1,26 @@
+01 - ﻿Mama and Thembsie go shopping.
+02 - ﻿'Mama, that dog looks like a sausage. A sausage with legs and a head.' 'And a tail!'
+03 - ﻿'Mama, can we have that sausage dog?' 'No, sorry Thembsie. We can't have a dog.'?
+04 - ﻿Mama and Thembsie go home.
+05 - ﻿'Mama, those balloons look like sausages. 'Can I play with them?' 'Yes Thembsie!'
+06 - ﻿Thembsie twists and shapes the balloons this way. POP! POP! And Thembsie twists and shapes the balloons that way.
+07 - 'Papa, can you make this balloon into a sausage dog?' 'Yes, Thembsie.'
+08 - ﻿Papa and Thembsie go inside.
+09 - Papa twists and shapes the balloon this way. And Papa twists and shapes the balloon that way. LEGS! HEAD! TAIL!
+10 - ﻿Thembsie and her sausage dog go for a walk. HOP! BOP! BOUNCE!
+11 - ﻿'Thembsie, dinner time!' calls Mama. 'Mama, Papa, this is my sausage dog. Can he have some dinner?'
+12 - ﻿'Yes, Thembsie!'
+
+
+01 - අම්මා සහ තෙම්සි සාප්පු සවාරි යති.
+02 - 'අම්මා, ඒ බල්ලා සොසේජස් වගේ. කකුල් සහ හිස සහිත සොසේජස්.' 'හා වලිගයක්!'
+03 - 'අම්මා, අපිට අර සොසේජස් බල්ලා ගේන්න පුළුවන්ද?' 'නෑ, සමාවෙන්න තෙම්සි. අපිට බල්ලෙක් හදන්න බෑ.'?
+04 - අම්මා සහ තෙම්සි ගෙදර යනවා.
+05 - 'අම්මා, ඒ බැලූන් සොසේජස් වගේ. 'මට ඔවුන් සමඟ සෙල්ලම් කළ හැකිද?' 'ඔව් තෙම්සි!'
+06 - තෙම්සි මේ ආකාරයට බැලූන කරකවා හැඩගස්වයි. POP! POP! ඒවගේම තෙම්සි ඒ විදියට බැලුන් කරකවලා හැඩ කරනවා.
+07 - 'අප්පච්චි, ඔයාට පුළුවන්ද මේ බැලූනය සොසේජස් බල්ලෙක් කරන්න?' 'ඔව්, තෙම්සි.'
+08 - තාත්තා සහ තෙම්සි ඇතුලට යනවා.
+09 - තාත්තා බැලුනය මේ විදියට කරකවලා හැඩ කරනවා. ඒ වගේම තාත්තා බැලුනය ඒ විදියට කරකවලා හැඩ කරනවා. කකුල්! හිස! ටේල්!
+10 - තෙම්සි සහ ඇගේ සොසේජස් බල්ලා ඇවිදින්න යනවා. HOP! BOP! BOUNS!
+11 - 'තේම්සි, රාත්‍රී ආහාර වේලාව!' අම්මාට කතා කරයි. 'අම්මා, තාත්තා, මේ මගේ සොසේජස් බල්ලා. ඔහුට රාත්‍රී ආහාරය ගත හැකිද?'
+12 - 'ඔව්, තෙම්සි!'

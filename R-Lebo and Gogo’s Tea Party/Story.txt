@@ -1,0 +1,24 @@
+01 - ﻿Lebo is at Gogo's farm. She is bored with chasing the animals. 'Now you chase me, Gogo!" Lebo shouts as she races past. 'Slow down, Lebo,' Gogo says, hurrying to catch up.
+02 - ﻿Gogo trips over a rock while chasing Lebo. 'Ouch!' she screams. Gogo has hurt her ankle.
+03 - ﻿She comes back from the doctor with a special boot and crutches. 'Gogo, come back to the city with us so that we can take care of you,' says Lebo's mom. 'I on't leave my farm. I will manage on my own,' Gogo replies, stubbornly.
+04 - ﻿'Gogo, you must come. We will have so much fun!" Lebo says, excitedly.
+05 - ﻿During the drive, Lebo bounces on her seat. She thinks of all the wild adventures she and Gogo will have in the city.
+06 - ﻿When they arrive at the house, Gogo rests on the sofa.
+07 - ﻿Lebo dashes into the lounge. 'Gogo, Gogo, I know what we can do today! We can go to the mall. There are lots of shops with nice toys and ice cream!" I'm afraid I can't. The mall is too big, and I will get so tired.'
+08 - ﻿'Gogo, Gogo, I know what we can do today! We can go to the park!' 'I'm afraid that won't work. The dogs in the park will run around and could make me fall again.'
+09 - ﻿A second later, Lebo's eyes are wide with excitement. 'Gogo, Gogo, I know what else we can do today. Let's go to the beach.' 'I'm sorry, Lebo. I'm afraid my crutches will sink into the soft sand.'
+10 - ﻿Lebo is quiet while Gogo knits. Suddenly she has an idea!
+11 - ﻿'Gogo, Gogo, I know what we can do today! Let's have a tea party. Gogo, you can sit here. I will bring everything to you because you are hurt.'
+
+
+01 - ලෙබෝ ඉන්නේ ගොගෝගේ ගොවිපළේ. සතුන් පසුපස හඹා යාම ඇයට කම්මැලි ය. 'දැන් ඔයා මාව එළවන්න, ගොගෝ!" ලෙබෝ ඇය පසුකර යන විට කෑගසයි. 'මන්දගාමී වන්න, ලෙබෝ,' ගොගෝ අල්ලා ගැනීමට ඉක්මන් වෙමින් පවසයි.
+02 - ලෙබෝ ලුහුබඳින අතරතුර ගෝගෝ පර්වතයක් හරහා ගමන් කරයි. 'අයියෝ!' ඇය කෑගසයි. Gogo ඇගේ වළලුකර තුවාල කර ඇත.
+03 - ඇය විශේෂ බූට් සපත්තුවක් සහ අත්වාරු සහිතව වෛද්‍යවරයාගෙන් ආපසු පැමිණේ. 'ගොගෝ, අපිත් එක්ක ආපහු නුවරට එන්න, එතකොට අපිට ඔයාව බලාගන්න පුළුවන්' කියා ලෙබෝගේ අම්මා පවසයි. 'මම මගේ ගොවිපල හැර යන්නේ නැහැ. මම තනියම කළමනාකරණය කරන්නම්,' ගොගෝ මුරණ්ඩු ලෙස පිළිතුරු දෙයි.
+04 - 'ගොගෝ, ඔබ පැමිණිය යුතුයි. අපි ගොඩක් විනෝද වෙමු!" ලෙබෝ උද්යෝගයෙන් පවසයි.
+05 - රිය පැදවීම අතරතුර, ලෙබෝ ඇගේ ආසනය මතට පැන්නේය. ඇය සහ ගොගෝ නගරය තුළ සිදු කරනු ලබන සියලුම වල් වික්‍රමාන්විතයන් ගැන ඇය සිතයි.
+06 - ඔවුන් නිවසට පැමිණෙන විට, ගොගෝ සෝෆා මත රැඳී සිටියි.
+07 - ලෙබෝ විවේකාගාරයට කඩා වැටේ. 'ගෝගෝ, ගොගෝ, අද අපට කළ හැකි දේ මම දනිමි! අපිට කඩේ යන්න පුළුවන්. ලස්සන සෙල්ලම් බඩු සහ අයිස්ක්‍රීම් තියෙන කඩ ගොඩක් තියෙනවා!" මම බයයි මට බෑ. කඩේ ලොකු වැඩියි, මට මහන්සියි.'
+08 - 'ගෝගෝ, ගොගෝ, අද අපට කළ හැකි දේ මම දනිමි! අපිට පාර්ක් එකට යන්න පුළුවන්!' 'මම බයයි ඒක වැඩ කරන්නේ නැහැ කියලා. උද්‍යානයේ ඉන්න බල්ලෝ එහෙ මෙහෙ දුවයි, මාව ආයෙත් වැටෙන්න පුළුවන්.'
+09 - තත්පරයකට පසු, ලෙබෝගේ දෑස් කලබලයෙන් විසල් විය. 'ගෝගෝ, ගොගෝ, මම දන්නවා අද අපිට තව මොනවද කරන්න පුළුවන් කියලා. අපි වෙරළට යමු.' 'මට සමාවෙන්න ලෙබෝ. මගේ කිහිලිකරු සිනිඳු වැල්ලේ ගිලෙයි කියලා මට බයයි.'
+10 - ගොගෝ ගෙතුම් කරන අතරතුර ලෙබෝ නිහඬය. හදිසියේම ඇයට අදහසක් තිබේ!
+11 - 'ගෝගෝ, ගොගෝ, අද අපට කළ හැකි දේ මම දනිමි! අපි තේ පැන් සංග්‍රහයක් කරමු. ගොගෝ, ඔබට මෙහි වාඩි විය හැකිය. ඔයාට රිදෙන නිසා මම හැමදේම ඔයාට ගෙනත් දෙන්නම්.'
