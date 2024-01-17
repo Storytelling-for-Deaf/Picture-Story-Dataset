@@ -1,0 +1,23 @@
+01-﻿Mouse was looking for a new house.
+02-﻿This looks like a nice house.
+03-﻿"You can come and sleep with me," said Puppy."Thank you," said Mouse.
+04-﻿That night, Mouse's dreams were bouncy and muddy.
+05-﻿"You can come and sleep with me," said Parrot. "Thank you," said Mouse.
+06-﻿That night, Mouse's dreams were noisy and wild.
+07-﻿"You can come and sleep with me," said Fish."Thank you," said Mouse.
+08-﻿That night, Mouse's dreams were cold and wet.
+09-﻿Mouse needed somewhere warm and dry.
+10-﻿Mouse found a bookshelf nearby.
+11-﻿That night, Mouse had warm and cosy dreams.
+
+01- මවුස් නව නිවසක් සොයමින් සිටියේය.
+02- මේක ලස්සන ගෙයක් වගේ.
+03-"ඔයාට පුළුවන් ඇවිත් මාත් එක්ක නිදාගන්න," Puppy කිව්වා."ස්තූතියි," Mouse කිව්වා.
+04-එදා රාත්‍රියේ මවුස්ගේ සිහින බොඳ වී මඩ සහිත විය.
+05-"ඔයාට පුළුවන් ඇවිත් මාත් එක්ක නිදාගන්න" ගිරවා කීවේය. "ස්තූතියි," මවුස් පැවසීය.
+06-එදා රාත්‍රියේ මවුස්ගේ සිහින ඝෝෂාකාරී සහ වල් විය.
+07-"ඔබට ඇවිත් මාත් එක්ක නිදාගන්න පුළුවන්," ෆිෂ් පැවසීය."ස්තූතියි," මවුස් පැවසීය.
+08-එදා රාත්‍රියේ මවුස්ගේ සිහින සීතල හා තෙත් විය.
+09-උණුසුම් සහ වියලි ස්ථානයක මවුසය අවශ්‍ය වේ.
+10-මවුස් අසල පොත් රාක්කයක් සොයා ගත්තේය.
+11-එදා රාත්‍රියේ මවුස් උණුසුම් සහ සුවපහසු සිහින දකියි.

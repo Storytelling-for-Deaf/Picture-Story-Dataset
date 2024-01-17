@@ -1,0 +1,22 @@
+01-﻿"What a beautiful day," says Mom. "Wake up Nicholas." "Hello sun," says Nicholas. "Good morning birds."
+02-﻿"It's a lovely day," says Dad. "Let's have a picnic by the river." "Can my friend Jacob come?" asks Nicholas.
+03-﻿"Don't forget me. I love picnics!" says Donkey."And me. I want to come too!" says Dog."Follow us," say the birds.
+04-﻿"I'll race you to that tree," Nicholas says.
+05-﻿"I won, I won," says Donkey. "Not fair," says Nicholas. "You've got four legs."
+06-﻿"Look what I can do," says Nicholas."I bet you can't do this," says Jacob.
+07-﻿"Here's our picnic spot," says Dad.
+08-﻿"Race you to the water!" says Jacob.
+09-﻿"Come and eat, boys and girls," says Mom.
+10-﻿"Time to go home," says Mom."Say goodbye to Jacob."
+
+
+01-"මොනතරම් ලස්සන දවසක්ද," අම්මා පවසයි. "නිකොලස් අවදි කරන්න." "හෙලෝ හිරු," නිකලස් පවසයි. "සුබ උදෑසනක් කුරුල්ලෝ."
+02-"ඒක ලස්සන දවසක්" තාත්තා පවසයි. "අපි ගඟ අසල විනෝද චාරිකාවක් කරමු." "මගේ යාළුවා ජේකබ්ට එන්න පුළුවන්ද?" නිකලස් අසයි.
+03-"මාව අමතක කරන්න එපා. මම විනෝද චාරිකා වලට කැමතියි!" බූරුවා කියනවා."හා මමත්. මටත් එන්න ඕන!" බල්ලා කියනවා "අපිව අනුගමනය කරන්න," කුරුල්ලෝ කියනවා.
+04-"මම ඔයාව ඒ ගහට දුවනවා" නිකලස් පවසයි.
+05-"මම දිනුවා, මම දිනුවා" බූරුවා පවසයි. "සාධාරණ නැහැ," නිකලස් පවසයි. "ඔයාට කකුල් හතරක් තියෙනවා."
+06-"බලන්න මට කරන්න පුළුවන් දේ," නිකලස් පවසයි. "ඔබට මෙය කළ නොහැකි බව මම විශ්වාස කරමි," ජේකබ් පවසයි.
+07-"මෙන්න අපේ පික්නික් ස්පොට් එක" තාත්තා කියයි.
+08-"ඔබව වතුරට දුවන්න!" යාකොබ් පවසයි.
+09-"කොල්ලෝ කෙල්ලෝ ඇවිත් කන්න" අම්මා කියනවා.
+10-"ගෙදර යන්න වෙලාව," අම්මා කියනවා." යාකොබ්ට සමුදෙන්න."

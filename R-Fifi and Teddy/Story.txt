@@ -1,0 +1,20 @@
+01-﻿Fifi has loved Teddy since she was a baby.
+02-﻿Fifi eats with Teddy. Fifi plays with Teddy.
+03-﻿Fifi takes Teddy wherever she goes. And they curl up together every night.
+04-﻿Fifi knows she cannot take Teddy to school. So every morning she leaves Teddy on her bed.
+05-﻿One day, when she comes back from school, Teddy is not there!
+06-﻿"What's wrong, Fifi?" asks Mom.
+07-﻿Teddy is missing!
+08-﻿“No, darling. Teddy just had a bath!"
+09-﻿"There you are, Teddy!"
+
+
+01-Fifi ටෙඩීට කුඩා කල සිටම ආදරය කරයි.
+02-ෆිෆි ටෙඩී සමඟ කනවා. Fifi ටෙඩී සමඟ සෙල්ලම් කරයි.
+03-Fifi ටෙඩිව ඇය යන ඕනෑම තැනකට රැගෙන යයි. ඒ වගේම ඔවුන් සෑම රාත්‍රියකම එකට ගුලි වෙනවා.
+04-ෆිෆි දන්නවා ඇයට ටෙඩිව පාසලට ගෙනියන්න බෑ කියලා. ඉතින් හැමදාම උදේට එයා ටෙඩීව එයාගේ ඇඳ උඩ දාලා යනවා.
+05-දවසක්, ඇය පාසල නිමවී එන විට, ටෙඩී එහි නැත!
+06-"මොකක්ද අවුල, Fifi?" අම්මා අහනවා.
+07-ටෙඩී අතුරුදහන්!
+08-"නෑ සොඳුරිය. ටෙඩී දැන් නාගත්තා!"
+09-"ඔහේ ඉන්නවා, ටෙඩී!"

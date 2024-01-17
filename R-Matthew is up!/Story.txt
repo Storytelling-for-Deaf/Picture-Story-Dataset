@@ -1,0 +1,26 @@
+01-﻿The sun is up. Matthew is up.
+02-Mommy is sleeping. Daddy is sleeping. Lizwi is sleeping.
+03-﻿Matthew is hungry.Matthew pours the milk on his cereal.Matthew eats.Matthew eats it all up.Mommy is sleeping. Daddy is sleeping.Lizwi is sleeping.
+04-﻿Matthew needs to poo.He sits on the loo and wipes his own bottom.Mommy is sleeping. Daddy is sleeping. Lizwi is sleeping.
+05-Matthew pulls off his pyjamas.He puts on his clothes.First he puts on his Spiderman underpants. Then he puts on his number 1 shirt.Then he puts on his pants.
+06-﻿Mommy is sleeping. Daddy is sleeping. Lizwi is sleeping.
+07-﻿So Matthew jumps.Matthew jumps small jumps in his room.
+08-﻿Mommy is still sleeping. Daddy is still sleeping. Lizwi is still sleeping.
+09-﻿So Matthew jumps. Matthew jumps in the passage. Matthew jumps in the bathroom.
+10-﻿Mommy is still sleeping. Daddy is still sleeping. Lizwi is still sleeping.
+11-﻿So Matthew jumps on them. Matthew jumps on Mommy, on Daddy, on Lizwi, on the big bed.
+12-﻿Lizwi wakes up. Lizwi jumps! Matthew and Lizwi jump on Mommy and Daddy! Mommy wakes up.
+
+
+01 - හිරු උදාව ඇත. මැතිව් නැගිට්ටා.
+02-අම්මා නිදි. තාත්තා නිදි. ලිස්වි නිදි.
+03-මැතිව්ට බඩගිනියි.මැතිව් එයාගේ ධාන්‍ය වලට කිරි වක්කරනවා.මැතිව් කනවා.මැතිව් ඒ ඔක්කොම කනවා.අම්මා නිදි. තාත්තා නිදි.ලිස්වි නිදි.
+04-මැතිව්ට මලපහ කරන්න ඕනේ.ඔහු ලූය මත ඉඳගෙන ඔහුගේම පතුල පිසදමනවා.අම්මා නිදි. තාත්තා නිදි. ලිස්වි නිදි.
+05-මැතිව් ඔහුගේ පිජාමාව ගලවයි.ඔහු ඔහුගේ ඇඳුම් අඳියි.මුලින්ම ඔහු ස්පයිඩර්මෑන් යට කලිසම අඳියි. ඉන්පසු ඔහු තම අංක 1 කමිසය අඳියි.ඉන්පසු ඔහු කලිසම අඳියි.
+06-අම්මා නිදි. තාත්තා නිදි. ලිස්වි නිදි.
+07-ඉතින් මැතිව් පනිනවා.මැතිව් එයාගේ කාමරේ පොඩි පනිනවා.
+08-අම්මා තාම නිදි. තාත්තා තාම නිදි. ලිස්වි තාම නිදි.
+09-ඉතින් මැතිව් පනිනවා. මැතිව් ඡේදයේ පනියි. මැතිව් නාන කාමරයට පනිනවා.
+10-අම්මා තාම නිදි. තාත්තා තාම නිදි. ලිස්වි තාම නිදි.
+11-ඉතින් මැතිව් ඔවුන් මතට පනිනවා. මැතිව් අම්මාට, තාත්තාට, ලිස්විට, ලොකු ඇඳ උඩ පනිනවා.
+12-ලිස්වි අවදි වෙයි. ලිස්වි පනියි! මැතිව් සහ ලිස්වි අම්මටයි තාත්තටයි පනිනවා! අම්මා අවදි වෙනවා.
